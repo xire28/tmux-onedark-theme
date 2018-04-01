@@ -4,7 +4,7 @@ onedark_black="#232729"
 onedark_blue="#61afef"
 onedark_yellow="#e5c07b"
 onedark_red="#e06c75"
-onedark_white="#aab2bf"
+onedark_white="#ffffff"
 onedark_green="#98c379"
 onedark_visual_grey="#3e4452"
 onedark_comment_grey="#5c6370"
@@ -59,7 +59,7 @@ setw "window-status-activity-attr" "none"
 
 setw "window-status-separator" ""
 
-set "window-style" "fg=$onedark_comment_grey,bg=$onedark_black"
+set "window-style" "fg=$onedark_white,bg=$onedark_black"
 set "window-active-style" "fg=$onedark_white,bg=$onedark_black"
 
 set "pane-border-fg" "$onedark_visual_grey"
